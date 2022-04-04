@@ -1,1 +1,1 @@
-import{S as n,i as r,s as i,t as c,h as l,g as u,n as a,d}from"../chunks/index-dd45c2ae.js";function f(s){let t;return{c(){t=c("Sobre")},l(e){t=l(e,"Sobre")},m(e,o){u(e,t,o)},p:a,i:a,o:a,d(e){e&&d(t)}}}class p extends n{constructor(t){super();r(this,t,null,f,i,{})}}export{p as default};
+import{S as n,i as r,s as i,t as c,h as l,g as u,n as a,d}from"../chunks/index-dd45c2ae.js";function f(s){let t;return{c(){t=c("Sobre")},l(e){t=l(e,"Sobre")},m(e,o){u(e,t,o)},p:a,i:a,o:a,d(e){e&&d(t)}}}class p extends n{constructor(t){super(),r(this,t,null,f,i,{})}}export{p as default};
